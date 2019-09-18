@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-image: radial-gradient(circle, #020914, #0c1923, #0d2632, #0a343f, #06424b);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+h3{
+font-size: 20px;
+height: 50px;
+}
